@@ -23,4 +23,4 @@ npm start
 ```
 
 ## Contact
-📍 Shree Secondary School Rajhena, Ghorahi Nepal | ✉️ Email: [your-email@example.com](mailto:person.bhishma@gmail.com)
+📍 Shree Secondary School Rajhena, Ghorahi Nepal | ✉️ Email: [person.bhishma@gmail.com](mailto:person.bhishma@gmail.com)
