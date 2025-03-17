@@ -16,10 +16,8 @@ This is the official website for **Mavi Rajhena** ([mavirajhena.edu.np](https://
 
 ## Setup
 ```bash
-git clone https://github.com/yourusername/mavi-rajhena-website.git
-cd mavi-rajhena-website
-npm install  # if applicable
-npm start
+git clone https://github.com/bhishma10/mavirajhena.git
+cd mavirajhena
 ```
 
 ## Contact
