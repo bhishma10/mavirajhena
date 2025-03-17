@@ -1,0 +1,26 @@
+# Mavi Rajhena - School Website
+
+## Overview
+This is the official website for **Mavi Rajhena** ([mavirajhena.edu.np](https://mavirajhena.edu.np)), providing information about academics, events, and notices.
+
+## Features
+- 🏫 School details & faculty info
+- 📅 Events & announcements
+- 🎓 Academic curriculum
+- 📞 Contact information
+
+## Technologies Used
+- HTML, CSS, JavaScript
+- Node.js / PHP (backend)
+- MySQL / Firebase (database)
+
+## Setup
+```bash
+git clone https://github.com/yourusername/mavi-rajhena-website.git
+cd mavi-rajhena-website
+npm install  # if applicable
+npm start
+```
+
+## Contact
+📍 Shree Secondary School Rajhena, Ghorahi Nepal | ✉️ Email: [your-email@example.com](mailto:person.bhishma@gmail.com)
